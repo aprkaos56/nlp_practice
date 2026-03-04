@@ -1,3 +1,15 @@
-https://www.newsis.com/view/NISX20260226_0003526930
+https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
 
-- "드디어 오르나"…비트코인, 1억 돌파 눈앞
+
+<Disneyland Reviews>
+
+The dataset includes 42,000 reviews of 3 Disneyland branches - Paris, California and Hong Kong, posted by visitors on Trip Advisor.
+
+Column Description:
+
+Review_ID: unique id given to each review
+Rating: ranging from 1 (unsatisfied) to 5 (satisfied)
+Year_Month: when the reviewer visited the theme park
+Reviewer_Location: country of origin of visitor
+Review_Text: comments made by visitor
+Disneyland_Branch: location of Disneyland Park
